@@ -38,3 +38,7 @@ php artisan serve
 # document for ebay single item.
 
 https://developer.ebay.com/devzone/shopping/docs/CallRef/GetSingleItem.html#Samples
+
+# type of HitCounter
+
+https://developer.ebay.com/devzone/xml/docs/reference/ebay/types/HitCounterCodeType.html
